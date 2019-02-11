@@ -36,7 +36,13 @@ As of 2018, undocumented and thus, inconsistent.
 
 # Intro for Designers 
 
-TBD by design
+## Install on macOS
+
+1. Download the [latest release](https://github.com/virtru/virtru-typography/releases) of this repo: **Assets > Source code** (zip)
+1. Open Font Book.
+1. In the **User** section, remove any font families that appear in this repo.
+1. Install the downloaded fonts by opening them in Font Book. There should be no validation or duplicate font warnings.
+1. Deactivate any fonts in this repo above in [Adobe Fonts](https://fonts.adobe.com/my_fonts).
 
 # Intro for Engineers
 
