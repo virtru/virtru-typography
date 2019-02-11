@@ -8,19 +8,26 @@ One, consistent set of fonts for the Virtru brand to be used by designers and en
 
 These are the same fonts repeated again and again:
 
-- [ ] GitHub screenshots TBD
+A. A Browser Plugin
+![Virtru BP fonts](./problems/fonts-bp.png)
+
+B. Secure Reader
+![Virtru SR fonts](./problems/fonts-sr.png)
+
+C. Dashboard
+![Virtru Dashboard fonts](./problems/fonts-dashboard.png)
 
 
 ### 2. The same fonts coming from different sources
 
-Which is canonical?
+Where is this coming from? Which is canonical?
 
-- [ ] Adobe Fonts screenshot TBD
+![Creative Cloud duplicate fonts screenshot](./problems/fonts-Creative%20Cloud.png)
 
 
 ### 3. Design programs treating the same fonts as different fonts, locally
 
-- [ ] Sketch screenshot TBD
+![Sketch missing fonts screenshot](./problems/fonts-Sketch.png)
 
 
 ### 4. New designer onboarding—how do I get fonts locally?
