@@ -52,4 +52,14 @@ TBD by engineering
 
 # Governance
 
-TBD: how will this repo evolve?
+## Adding fonts
+
+TBD
+
+## Removing fonts
+
+TBD
+
+## Generating new font files (for localization, performance, etc.)
+
+[How to Generate WOFF & WOFF2 fonts](https://github.com/virtru/virtru-typography/wiki/Generating-WOFF-&-WOFF2-fonts)
