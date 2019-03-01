@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased](https://github.com/virtru/control-center/compare/master...HEAD)
 ### Added
-- DASH-761 ([#5](https://github.com/virtru/virtru-typography/pull/5)): _minor_
+- DASH-761 ([#6](https://github.com/virtru/virtru-typography/pull/6)): _minor_
   - Add css for open sans and raleway
 
 ## [v0.2.0](https://github.com/virtru/control-center/compare/v0.1.0...v0.2.0) - 2019-02-28
