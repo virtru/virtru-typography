@@ -1,8 +1,8 @@
 {
   "name": "virtru-typography",
-  "version": "1.0.0",
-  "description": "fonts library for virtru products",
-  "main": "index.js",
+  "version": "0.2.0",
+  "description": "Fonts library for virtru products",
+  "main": "index.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
