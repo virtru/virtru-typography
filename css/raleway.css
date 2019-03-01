@@ -82,6 +82,15 @@
 @font-face {
     font-family: 'Raleway';
     src:
+        url('../fonts/Raleway/Raleway-MediumItalic.woff2') format('woff2'),
+        url('../fonts/Raleway/Raleway-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src:
         url('../fonts/Raleway/Raleway-Regular.woff2') format('woff2'),
         url('../fonts/Raleway/Raleway-Regular.woff') format('woff');
     font-weight: normal;
@@ -91,9 +100,9 @@
 @font-face {
     font-family: 'Raleway';
     src:
-        url('../fonts/Raleway/Raleway-MediumItalic.woff2') format('woff2'),
-        url('../fonts/Raleway/Raleway-MediumItalic.woff') format('woff');
-    font-weight: 500;
+        url('../fonts/Raleway/Raleway-Italic.woff2') format('woff2'),
+        url('../fonts/Raleway/Raleway-Italic.woff') format('woff');
+    font-weight: normal;
     font-style: italic;
 }
 
@@ -112,15 +121,6 @@
         url('../fonts/Raleway/Raleway-LightItalic.woff2') format('woff2'),
         url('../fonts/Raleway/Raleway-LightItalic.woff') format('woff');
     font-weight: 300;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'Raleway';
-    src:
-        url('../fonts/Raleway/Raleway-Italic.woff2') format('woff2'),
-        url('../fonts/Raleway/Raleway-Italic.woff') format('woff');
-    font-weight: normal;
     font-style: italic;
 }
 
