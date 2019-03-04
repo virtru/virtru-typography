@@ -1,6 +1,6 @@
 {
   "name": "virtru-typography",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Fonts library for virtru products",
   "main": "index.css",
   "scripts": {
@@ -15,7 +15,7 @@
     "fonts",
     "virtru"
   ],
-  "author": "avkvirtru",
+  "author": "ux pod",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/virtru/virtru-typography/issues"
