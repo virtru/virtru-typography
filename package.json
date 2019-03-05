@@ -1,0 +1,24 @@
+{
+  "name": "virtru-typography",
+  "version": "0.3.0",
+  "description": "Fonts library for virtru products",
+  "main": "index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/virtru/virtru-typography.git"
+  },
+  "keywords": [
+    "typography",
+    "fonts",
+    "virtru"
+  ],
+  "author": "ux pod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/virtru/virtru-typography/issues"
+  },
+  "homepage": "https://github.com/virtru/virtru-typography#readme"
+}
