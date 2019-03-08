@@ -175,7 +175,7 @@ ${ locale_links.map(link => "<li>" + link + "</li>").join("\n") }
     <title>Font test page</title>
     <style type="text/css">
       body {
-        // intentionally different from fonts being tested
+        /* intentionally different from fonts being tested */
         font-family: monospace;
       }
     </style>
