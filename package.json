@@ -1,6 +1,6 @@
 {
   "name": "virtru-typography",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Fonts library for virtru products",
   "main": "index.css",
   "scripts": {
