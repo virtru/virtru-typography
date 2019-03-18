@@ -45,10 +45,41 @@ As of 2018, undocumented and thus, inconsistent.
 1. Deactivate any fonts in this repo above in [Adobe Fonts](https://fonts.adobe.com/my_fonts).
 
 # Intro for Engineers
+## Installation
+This repo is ready for installation as npm package:
+```
+npm install --save git+ssh://git@github.com/virtru/virtru-typography.git
+```
 
-TBD by engineering
+Once it's installed, add this to your application: 
+```js
+require('virtru-typography');
+```  
 
-## Install & Build
+This assumes that you're using webpack with relevant loaders for css and font files.
+Feel free to use dashboard and dashboard-v2 commits as a reference for adding `virtru-typography` to the existing projects:
+https://github.com/virtru/dashboard/pull/649/files 
+https://github.com/virtru/dashboard-v2/pull/542/files
+
+### Usage
+This repo ships css files with `@font-face` directives as well as `woff`, `woff2`, `ttf` fonts right into your project.
+To use fonts in your app you just need to specify relevant font in your css:
+```css
+.text {
+  font: 300 16px 'Open Sans', sans-serif;
+}
+``` 
+
+```css
+.text {
+  font-style: italic; 
+  font-family: 'Raleway', sans-serif;
+}
+``` 
+
+### Possible problems
+- If your fonts don't load from CDN, check out this dashboard fix: https://github.com/virtru/dashboard/pull/665 
+
 
 # Governance
 
