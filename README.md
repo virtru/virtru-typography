@@ -66,14 +66,14 @@ This repo ships css files with `@font-face` directives as well as `woff`, `woff2
 To use fonts in your app you just need to specify relevant font in your css:
 ```css
 .text {
-  font: 300 16px 'Open Sans', sans-serif;
+  font: 300 16px 'Open Sans', Helvetica, Arial, sans-serif;
 }
 ``` 
 
 ```css
 .text {
   font-style: italic; 
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
 }
 ``` 
 
